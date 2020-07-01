@@ -1,1 +1,1 @@
-# Learning-C-
+# Learning C++ from Bjarne Stroustrop's 'Programming Principles and Practice Using C++'. This will include 'Try me's and 'Exercises', although not exhaustively, from the book, plus any small, familiarisation programs from elsewhere.
