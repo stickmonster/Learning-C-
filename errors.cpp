@@ -24,7 +24,7 @@ void mightGoWrong() {
 
     if (error3) {
 
-      throw string("Soemthing else went wrong");
+      throw string("Something else went wrong");
     }
 
 
